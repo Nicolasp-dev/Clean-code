@@ -6,7 +6,7 @@ if (isLoggedIn) {
 }
 
 /*
-  Variables & Constants
+  VARIABLES & CONSTANT
   - Data containers: Use nouns or short phrases with adjectives.
   - Be descriptive and value type clear.
   - Name casing conventions: 
@@ -36,7 +36,23 @@ if (isLoggedIn) {
   - Avoid Redundant information. 
   - Avoid Slang. Unclear Abbreviations.
   - Disinformation
-  - 
+
+  // COMMENTS
+  - Use descriptive names to avoid explanatory comments. 
+  - Avoid use dividers comments. 
+  - Misleading information.
+  - Commented-Out Code.
+
+    // USE CASES
+  - Legal information. 
+  - Explanation which can't be replaced by good naming.
+  - Warnings.
+  - Todo notes. 
+  - Documentation. 
+
+  // CODE FORMATTING
+  - Improves readability: Vertical || Horizontal. 
+  - Language convention - Style guidelines. 
 
 */
 
